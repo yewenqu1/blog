@@ -2,7 +2,7 @@
 ## 2018
 + [博客的开始](https://github.com/yewenqu1/blog/issues/1)
 ## 2019 08
-+ [系统地学 -- redis 基础篇]
++ [系统地学 -- redis 基础篇](https://github.com/yewenqu1/blog/issues/2)
 ## 2019 07
 + [HashMap -- 进化是生存之道]
 + [IO -- 故事开始了，就要讲到结束]
