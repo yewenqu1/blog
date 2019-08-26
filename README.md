@@ -1,6 +1,5 @@
 # 157的博客--说说原理
-## 2018
-+ [博客的开始](https://github.com/yewenqu1/blog/issues/1)
+
 ## 2019 08
 + [系统地学 -- redis 基础篇](https://github.com/yewenqu1/blog/issues/2)
 ## 2019 07
@@ -18,3 +17,5 @@
 + [rocket mq -- 工匠的自我修养 其三]
 + [xxljob -- 工匠的自我修养 其四]
 + [mybatis -- 工匠的自我修养 其五]
+## 2019 07
++ [博客的开始](https://github.com/yewenqu1/blog/issues/1)
