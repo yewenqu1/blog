@@ -1,6 +1,7 @@
 # 157的博客--说说原理
 
 ## 2019 08
++ [系统地学 -- redis 特性篇](https://github.com/yewenqu1/blog/issues/3)
 + [系统地学 -- redis 基础篇](https://github.com/yewenqu1/blog/issues/2)
 ## 2019 07
 + [HashMap -- 进化是生存之道]
